@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: #4444;
+    color: white;
+}
+.form-control{
+    background-color:black;
+    color: white;
+}
+.form-control::placeholder{
+    color: white;
+}
+.form-control:focus{
+    color: white;
+    background-color: #222;
+}
